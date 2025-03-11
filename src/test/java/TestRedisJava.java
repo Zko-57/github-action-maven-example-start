@@ -20,4 +20,4 @@ public class TestRedisJava {
         assertEquals("42",
                 cache.get_cached_value("answer_to_the_ultimate_question_of_life_the_universe_and_everything"));
     }
-}
+} 
